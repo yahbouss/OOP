@@ -1,0 +1,20 @@
+{
+  "name": "OOP",
+  "version": "1.0.0",
+  "description": "1. The old bank account example from lecture looked as follows:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yahbouss/OOP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yahbouss/OOP/issues"
+  },
+  "homepage": "https://github.com/yahbouss/OOP#readme"
+}
